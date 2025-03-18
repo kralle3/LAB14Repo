@@ -5,3 +5,5 @@
   Check your model's file name and ensure that it matches Line 12. 
   
   Also verify that your data labels match the Gesture Map on Lines 21-23. You will want to use the correct order! 
+
+By Kamari Allen
